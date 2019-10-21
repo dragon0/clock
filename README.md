@@ -1,3 +1,3 @@
-# 10print
+# Clock
 
 Based on [this video](https://www.youtube.com/watch?v=E4RyStef-gY)
